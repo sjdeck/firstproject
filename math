@@ -1,0 +1,26 @@
+package code;
+
+public class Math{
+
+public void Math(ArrayList<Integer> number){
+  ArrayList<Integer> math= new ArrayList<Integer>();
+  int first = 0;
+   math.add(1);
+   math.add(2);
+   math.add(3);
+   math.add(4);
+   math.add(5);
+   math.add(6);
+   math.add(7);
+   math.add(8);
+   math.add(9);
+   math.add(10);
+for (int i = 0; i<10; i++){
+    first = first + i;
+   }
+   System.out.println(first.sqrt(math)); }
+   }
+   }
+  
+  
+  
